@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.5.2:PlatformToolSet=v140:EnableManagedIncrementalBuild=true:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|x64|D:\VS_2015_Projects\Kalman Filter tracking mouse\IP_HW1\|
